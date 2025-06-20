@@ -136,4 +136,4 @@ for(let j = 0 ; j <matrix[i].length ; j++){
 
 
 }
-console.log(indx);
+console.log(indx)
